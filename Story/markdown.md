@@ -7,3 +7,5 @@
 <p>one must learn to be who they are and learn to resign with good grace what they are not!
 Regret is a nature that we can’t overcome but we still can embrace and learn from with a hope for better experiences.</p>
 
+# Structure of the story 
+![Flow-chart](flow-chart.jpg)
